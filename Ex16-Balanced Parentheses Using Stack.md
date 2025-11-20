@@ -11,8 +11,6 @@ To write a Java program that verifies whether the parentheses (brackets) in an i
 5. When a closing bracket is encountered, check if it matches the top of the stack.
 6. If any mismatch or leftover element exists, the parentheses are not balanced.
 7. If the stack is empty at the end, the parentheses are balanced.
-   
-
 ## Program:
 ```
 /*
