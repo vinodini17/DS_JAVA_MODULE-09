@@ -54,7 +54,5 @@ public class BalancedParentheses {
 ## Output:
 
 <img width="406" height="58" alt="image" src="https://github.com/user-attachments/assets/5930f4a9-a053-41b5-a586-2dfa708c3227" />
-
-
 ## Result:
 Thus,the program correctly checks whether an input string has balanced parentheses using a stack.
